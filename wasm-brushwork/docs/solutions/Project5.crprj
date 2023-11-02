@@ -1,0 +1,28 @@
+<project>
+  <version>RQS.CodeRocket.Version.2.0.0</version>
+  <defaultNamespace>
+  </defaultNamespace>
+  <content>
+    <codeFile id="CodeFile5.crcf" />
+  </content>
+  <name>Project</name>
+  <id>d5932d28-91b5-45a0-a98f-9ffb860e79ef</id>
+  <readOnly>False</readOnly>
+  <accessLevel>
+  </accessLevel>
+  <resourcePath>
+  </resourcePath>
+  <code>
+  </code>
+  <notes>
+  </notes>
+  <codeStartColumn>0</codeStartColumn>
+  <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+  <belowNotes>
+  </belowNotes>
+  <openContainerNotes>
+  </openContainerNotes>
+  <closeContainerNotes>
+  </closeContainerNotes>
+  <extensibleData />
+</project>

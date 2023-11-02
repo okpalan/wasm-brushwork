@@ -1,0 +1,62 @@
+<codeFile>
+  <version>RQS.CodeRocket.Version.2.0.0</version>
+  <name>CodeFile</name>
+  <language>
+  </language>
+  <id>5bd74bd2-b127-4e72-8e71-8d08f26971ab</id>
+  <readOnly>False</readOnly>
+  <accessLevel>
+  </accessLevel>
+  <resourcePath>
+  </resourcePath>
+  <code>
+  </code>
+  <endCode>
+  </endCode>
+  <codeStartColumn>0</codeStartColumn>
+  <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+  <comments />
+  <belowComments />
+  <endComments />
+  <openContainerComments />
+  <closeContainerComments />
+  <inlineComments />
+  <extensibleData />
+  <needsRecovery>False</needsRecovery>
+  <content>
+    <procedure>
+      <name>Procedure</name>
+      <language>
+      </language>
+      <id>cb26d4ec-0866-497f-a682-3e2aff3b7e8e</id>
+      <readOnly>False</readOnly>
+      <accessLevel>
+      </accessLevel>
+      <resourcePath>
+      </resourcePath>
+      <code>
+      </code>
+      <endCode>
+      </endCode>
+      <codeStartColumn>0</codeStartColumn>
+      <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+      <comments />
+      <belowComments />
+      <endComments />
+      <openContainerComments />
+      <closeContainerComments />
+      <inlineComments />
+      <extensibleData />
+      <returnType>
+        <isPointer>False</isPointer>
+        <voidType />
+      </returnType>
+      <isAbstract>False</isAbstract>
+      <isConstructor>False</isConstructor>
+      <isDestructor>False</isDestructor>
+      <withParameters>False</withParameters>
+      <parameters />
+      <content />
+    </procedure>
+  </content>
+</codeFile>

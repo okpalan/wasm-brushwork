@@ -1,0 +1,72 @@
+<codeFile>
+  <version>RQS.CodeRocket.Version.2.0.0</version>
+  <name>CodeFile</name>
+  <language>
+  </language>
+  <id>5a986c02-c314-4b77-835f-02ec7643a2ad</id>
+  <readOnly>False</readOnly>
+  <accessLevel>
+  </accessLevel>
+  <resourcePath>
+  </resourcePath>
+  <code>
+  </code>
+  <endCode>
+  </endCode>
+  <codeStartColumn>0</codeStartColumn>
+  <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+  <comments />
+  <belowComments />
+  <endComments />
+  <openContainerComments />
+  <closeContainerComments />
+  <inlineComments />
+  <extensibleData />
+  <needsRecovery>False</needsRecovery>
+  <content>
+    <procedure>
+      <name>Procedure</name>
+      <language>
+      </language>
+      <id>edd32514-b556-41df-b8da-afc472be2a40</id>
+      <readOnly>False</readOnly>
+      <accessLevel>
+      </accessLevel>
+      <resourcePath>
+      </resourcePath>
+      <code>
+      </code>
+      <endCode>
+      </endCode>
+      <codeStartColumn>0</codeStartColumn>
+      <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+      <comments />
+      <belowComments />
+      <endComments />
+      <openContainerComments />
+      <closeContainerComments />
+      <inlineComments />
+      <extensibleData>
+        <extensibleItem key="PseudocodeEditor.RTF" value="{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Courier New;}}&#xD;&#xA;\viewkind4\uc1\pard\f0\fs20\par&#xD;&#xA;}" />
+        <extensibleItem key="PseudocodeEditor.SelectionLength" value="0" />
+        <extensibleItem key="PseudocodeEditor.VScrollPos" value="0" />
+        <extensibleItem key="xAutoScrollPosition" value="0" />
+        <extensibleItem key="PseudocodeEditor.SelectionStart" value="0" />
+        <extensibleItem key="PseudocodeEditor.HScrollPos" value="0" />
+        <extensibleItem key="yAutoScrollPosition" value="0" />
+        <extensibleItem key="PseudocodeEditor.CodeElementSelectedID" value="3ab2c4e9-efe2-4d59-bc0f-4ab7c4cd3e33" />
+        <extensibleItem key="ZoomFactor" value="100" />
+      </extensibleData>
+      <returnType>
+        <isPointer>False</isPointer>
+        <voidType />
+      </returnType>
+      <isAbstract>False</isAbstract>
+      <isConstructor>False</isConstructor>
+      <isDestructor>False</isDestructor>
+      <withParameters>False</withParameters>
+      <parameters />
+      <content />
+    </procedure>
+  </content>
+</codeFile>

@@ -1,0 +1,26 @@
+<solution>
+  <version>RQS.CodeRocket.Version.2.0.0</version>
+  <content>
+    <project id="Project5.crprj" />
+  </content>
+  <name>Solution</name>
+  <id>c15ee53b-4850-46e4-8ce8-03001962bbc1</id>
+  <readOnly>False</readOnly>
+  <accessLevel>
+  </accessLevel>
+  <resourcePath>
+  </resourcePath>
+  <code>
+  </code>
+  <notes>
+  </notes>
+  <codeStartColumn>0</codeStartColumn>
+  <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+  <belowNotes>
+  </belowNotes>
+  <openContainerNotes>
+  </openContainerNotes>
+  <closeContainerNotes>
+  </closeContainerNotes>
+  <extensibleData />
+</solution>

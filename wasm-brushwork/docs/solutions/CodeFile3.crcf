@@ -1,0 +1,187 @@
+<codeFile>
+  <version>RQS.CodeRocket.Version.2.0.0</version>
+  <name>CodeFile</name>
+  <language>
+  </language>
+  <id>186c5191-fe06-4197-93b4-7ea31ebb5840</id>
+  <readOnly>False</readOnly>
+  <accessLevel>
+  </accessLevel>
+  <resourcePath>
+  </resourcePath>
+  <code>
+  </code>
+  <endCode>
+  </endCode>
+  <codeStartColumn>0</codeStartColumn>
+  <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+  <comments />
+  <belowComments />
+  <endComments />
+  <openContainerComments />
+  <closeContainerComments />
+  <inlineComments />
+  <extensibleData />
+  <needsRecovery>False</needsRecovery>
+  <content>
+    <commentLine>
+      <name>
+      </name>
+      <language>
+      </language>
+      <id>f0874217-00bc-4d37-bc8d-2986254e74f3</id>
+      <readOnly>False</readOnly>
+      <accessLevel>
+      </accessLevel>
+      <resourcePath>
+      </resourcePath>
+      <code>
+      </code>
+      <endCode>
+      </endCode>
+      <codeStartColumn>0</codeStartColumn>
+      <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+      <comments />
+      <belowComments />
+      <endComments />
+      <openContainerComments />
+      <closeContainerComments />
+      <inlineComments />
+      <extensibleData />
+      <commentText>=================
+@class
+@name {Vec3} 
+@description -A 3D implementation for a vector.
+ =================</commentText>
+      <commentType>MultiLine</commentType>
+    </commentLine>
+    <struct>
+      <name>Vec3</name>
+      <language>
+      </language>
+      <id>85947106-095d-463d-b435-0482ca6bb191</id>
+      <readOnly>False</readOnly>
+      <accessLevel>public</accessLevel>
+      <resourcePath>
+      </resourcePath>
+      <code>
+      </code>
+      <endCode>
+      </endCode>
+      <codeStartColumn>0</codeStartColumn>
+      <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+      <comments />
+      <belowComments />
+      <endComments />
+      <openContainerComments />
+      <closeContainerComments />
+      <inlineComments />
+      <extensibleData />
+      <parentInterfaces />
+      <content>
+        <attribute>
+          <name>x</name>
+          <language>
+          </language>
+          <id>5d1a0cb0-4259-4cba-a633-bc27c415e492</id>
+          <readOnly>False</readOnly>
+          <accessLevel>public</accessLevel>
+          <resourcePath>
+          </resourcePath>
+          <code>
+          </code>
+          <endCode>
+          </endCode>
+          <codeStartColumn>0</codeStartColumn>
+          <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+          <comments />
+          <belowComments />
+          <endComments />
+          <openContainerComments />
+          <closeContainerComments />
+          <inlineComments />
+          <extensibleData />
+          <type>
+            <isPointer>False</isPointer>
+            <numericalType>
+              <typeOfNumber>Float</typeOfNumber>
+              <isSigned>True</isSigned>
+              <rangeStart>
+              </rangeStart>
+              <rangeEnd>
+              </rangeEnd>
+            </numericalType>
+          </type>
+        </attribute>
+        <attribute>
+          <name>y</name>
+          <language>
+          </language>
+          <id>0d8490be-e685-4b2f-9ad9-9e7e039cc2d3</id>
+          <readOnly>False</readOnly>
+          <accessLevel>public</accessLevel>
+          <resourcePath>
+          </resourcePath>
+          <code>
+          </code>
+          <endCode>
+          </endCode>
+          <codeStartColumn>0</codeStartColumn>
+          <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+          <comments />
+          <belowComments />
+          <endComments />
+          <openContainerComments />
+          <closeContainerComments />
+          <inlineComments />
+          <extensibleData />
+          <type>
+            <isPointer>False</isPointer>
+            <numericalType>
+              <typeOfNumber>Float</typeOfNumber>
+              <isSigned>True</isSigned>
+              <rangeStart>
+              </rangeStart>
+              <rangeEnd>
+              </rangeEnd>
+            </numericalType>
+          </type>
+        </attribute>
+        <attribute>
+          <name>z</name>
+          <language>
+          </language>
+          <id>c24084f5-677d-45b5-be10-c22f28533c1a</id>
+          <readOnly>False</readOnly>
+          <accessLevel>private</accessLevel>
+          <resourcePath>
+          </resourcePath>
+          <code>
+          </code>
+          <endCode>
+          </endCode>
+          <codeStartColumn>0</codeStartColumn>
+          <blankLinesOfCodeAfter>1</blankLinesOfCodeAfter>
+          <comments />
+          <belowComments />
+          <endComments />
+          <openContainerComments />
+          <closeContainerComments />
+          <inlineComments />
+          <extensibleData />
+          <type>
+            <isPointer>False</isPointer>
+            <numericalType>
+              <typeOfNumber>Float</typeOfNumber>
+              <isSigned>True</isSigned>
+              <rangeStart>
+              </rangeStart>
+              <rangeEnd>
+              </rangeEnd>
+            </numericalType>
+          </type>
+        </attribute>
+      </content>
+    </struct>
+  </content>
+</codeFile>
